@@ -1,0 +1,37 @@
+{
+  "count": {
+    "value": 76
+  },
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy milk",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Buy eggs",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Conquer the World",
+      "completed": false
+    },
+    {
+      "title": "aksdnjkasndkjn",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "NICE!",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
